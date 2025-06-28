@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+langchain
+langgraph
+langchain-openai
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+pydantic
+python-dotenv
+streamlit
+tavily-python # (Optional, for web search if you want to extend the agent)
